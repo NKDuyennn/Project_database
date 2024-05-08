@@ -1,0 +1,399 @@
+.my-profile-child,
+.my-profile-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+}
+.my-profile-item {
+  background-color: var(--color-gainsboro);
+  height: 100px;
+}
+.my-profile-inner {
+  position: absolute;
+  top: 162px;
+  left: 61px;
+  border-radius: var(--br-87xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 807px;
+  height: 864px;
+}
+.bookings {
+  position: absolute;
+  top: 195px;
+  left: 335px;
+  font-size: var(--font-size-29xl);
+  display: flex;
+  text-align: left;
+  align-items: center;
+  width: 248px;
+  height: 61px;
+}
+.my-profile-child1 {
+  position: absolute;
+  top: 162px;
+  left: 1013px;
+  border-radius: var(--br-87xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 807px;
+  height: 864px;
+}
+.my-profile-child2,
+.my-profile-child3 {
+  position: absolute;
+  top: 267px;
+  left: 94px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 741px;
+  height: 206px;
+}
+.my-profile-child3 {
+  top: 414px;
+  left: 583px;
+  background-color: var(--color-cornflowerblue-100);
+  width: 228px;
+  height: 51px;
+}
+.price2 {
+  top: 425px;
+  left: 595px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  width: 166px;
+  height: 30px;
+}
+.check-in-date1,
+.destination,
+.price2 {
+  position: absolute;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+.destination {
+  top: 268px;
+  left: 124px;
+  text-align: left;
+  width: 222px;
+  height: 104px;
+}
+.check-in-date1 {
+  top: 318px;
+  left: 55px;
+  font-size: var(--font-size-5xl);
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.my-profile-child6,
+.my-profile-child7 {
+  position: absolute;
+  top: 767px;
+  left: 94px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 741px;
+  height: 206px;
+}
+.my-profile-child7 {
+  top: 914px;
+  left: 583px;
+  background-color: var(--color-cornflowerblue-100);
+  width: 228px;
+  height: 51px;
+}
+.price4 {
+  top: 925px;
+  left: 595px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  width: 166px;
+  height: 30px;
+}
+.check-in-date3,
+.destination2,
+.price4 {
+  position: absolute;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+.destination2 {
+  top: 768px;
+  left: 124px;
+  text-align: left;
+  width: 222px;
+  height: 104px;
+}
+.check-in-date3 {
+  top: 818px;
+  left: 55px;
+  font-size: var(--font-size-5xl);
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.my-profile-child8,
+.my-profile-child9 {
+  position: absolute;
+  top: 519px;
+  left: 94px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 741px;
+  height: 206px;
+}
+.my-profile-child9 {
+  top: 666px;
+  left: 583px;
+  background-color: var(--color-cornflowerblue-100);
+  width: 228px;
+  height: 51px;
+}
+.destination3,
+.price5 {
+  position: absolute;
+  font-weight: 100;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.price5 {
+  top: 677px;
+  left: 595px;
+  font-size: var(--font-size-xl);
+  width: 166px;
+  height: 30px;
+}
+.destination3 {
+  top: 520px;
+  left: 124px;
+  width: 222px;
+  height: 104px;
+}
+.check-in-date4,
+.check-out-date1,
+.check-out-date2,
+.check-out-date3 {
+  position: absolute;
+  top: 570px;
+  left: 55px;
+  font-size: var(--font-size-5xl);
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.check-out-date1,
+.check-out-date2,
+.check-out-date3 {
+  top: 351px;
+  left: 62px;
+}
+.check-out-date2,
+.check-out-date3 {
+  top: 606px;
+}
+.check-out-date3 {
+  top: 854px;
+}
+.my-profile-child10 {
+  position: absolute;
+  top: 278px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.username21 {
+  position: absolute;
+  top: 261px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.my-profile-child11 {
+  position: absolute;
+  top: 973px;
+  left: 1225px;
+  border-radius: var(--br-32xl);
+  background-color: var(--color-lightsteelblue);
+  width: 435px;
+  height: 75px;
+}
+.edit2 {
+  position: absolute;
+  top: 950px;
+  left: 1198px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 489px;
+  height: 124px;
+}
+.hello2 {
+  font-weight: 500;
+}
+.username22 {
+  font-weight: 800;
+}
+.hello-username-txt-container2 {
+  width: 100%;
+}
+.hello-username2 {
+  top: 4px;
+  left: 1306px;
+  width: 614px;
+  height: 46px;
+}
+.hello-username2,
+.my-profile9,
+.username-profile2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.username-profile2 {
+  top: 195px;
+  left: 1183px;
+  font-size: var(--font-size-29xl);
+  text-align: left;
+  width: 637px;
+  height: 61px;
+}
+.my-profile9 {
+  top: 54px;
+  left: 1306px;
+  font-weight: 800;
+  justify-content: center;
+  width: 614px;
+  height: 46px;
+}
+.my-profile-child12 {
+  position: absolute;
+  top: 386px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.full-name3 {
+  position: absolute;
+  top: 369px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.my-profile-child13 {
+  position: absolute;
+  top: 494px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.email7 {
+  position: absolute;
+  top: 477px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.my-profile-child14 {
+  position: absolute;
+  top: 601px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.phone4 {
+  position: absolute;
+  top: 584px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.my-profile-child15 {
+  position: absolute;
+  top: 709px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.location7 {
+  position: absolute;
+  top: 692px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.my-profile-child16 {
+  position: absolute;
+  top: 817px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.rank1,
+.something-was-wrong {
+  position: absolute;
+  top: 800px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.something-was-wrong {
+  top: 901px;
+  left: 1184px;
+  font-size: var(--font-size-5xl);
+  width: 484px;
+}
+.my-profile8 {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-jetbrains-mono);
+}

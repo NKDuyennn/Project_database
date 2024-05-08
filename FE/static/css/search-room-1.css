@@ -1,0 +1,173 @@
+.search-room-1-child,
+.search-room-1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+}
+.search-room-1-item {
+  background-color: var(--color-gainsboro);
+  height: 100px;
+}
+.search-room-1-inner {
+  position: absolute;
+  top: 288px;
+  left: 192px;
+  border-radius: var(--br-87xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 1535px;
+  height: 504px;
+}
+.search-room-1-child1 {
+  position: absolute;
+  top: 396px;
+  left: 248px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 1424px;
+  height: 108px;
+}
+.enter-a-destination1 {
+  position: absolute;
+  top: 400px;
+  left: 388px;
+  font-weight: 100;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 1383px;
+  height: 104px;
+}
+.check-in-date5,
+.search-room-1-child2 {
+  position: absolute;
+  top: 540px;
+  left: 248px;
+  width: 326px;
+  height: 108px;
+}
+.search-room-1-child2 {
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+}
+.check-in-date5 {
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.check-out-date4,
+.search-room-1-child3 {
+  position: absolute;
+  top: 540px;
+  left: 614px;
+  width: 326px;
+  height: 108px;
+}
+.search-room-1-child3 {
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+}
+.check-out-date4 {
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.number-of-guests1,
+.search-room-1-child4 {
+  position: absolute;
+  top: 540px;
+  left: 980px;
+  width: 326px;
+  height: 108px;
+}
+.search-room-1-child4 {
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+}
+.number-of-guests1 {
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.number-of-rooms1,
+.search-room-1-child5 {
+  position: absolute;
+  top: 540px;
+  left: 1346px;
+  width: 326px;
+  height: 108px;
+}
+.search-room-1-child5 {
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+}
+.number-of-rooms1 {
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.search,
+.search-room-1-child6 {
+  position: absolute;
+  top: 730px;
+  left: 695px;
+  width: 489px;
+  height: 124px;
+}
+.search-room-1-child6 {
+  border-radius: var(--br-32xl);
+  background-color: var(--color-lightsteelblue);
+}
+.search {
+  font-size: var(--font-size-29xl);
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hello4 {
+  font-weight: 500;
+}
+.username24 {
+  font-weight: 800;
+}
+.hello-username-txt-container4 {
+  width: 100%;
+}
+.hello-username4,
+.my-profile11 {
+  position: absolute;
+  top: 4px;
+  left: 1306px;
+  display: flex;
+  align-items: center;
+  width: 614px;
+  height: 46px;
+}
+.my-profile11 {
+  top: 54px;
+  font-weight: 800;
+  justify-content: center;
+}
+.search-alt-light-icon6 {
+  position: absolute;
+  top: 410px;
+  left: 293px;
+  width: 83px;
+  height: 83px;
+}
+.search-room-1 {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-jetbrains-mono);
+}

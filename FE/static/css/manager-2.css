@@ -1,0 +1,245 @@
+.manager-2-child,
+.manager-2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+}
+.manager-2-item {
+  background-color: var(--color-gainsboro);
+  height: 100px;
+}
+.all-customer1,
+.my-hotel1 {
+  position: absolute;
+  top: 50px;
+  left: 653px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 614px;
+  height: 46px;
+}
+.my-hotel1 {
+  left: -46px;
+}
+.manager-2-inner {
+  position: absolute;
+  top: 168px;
+  left: 535px;
+  border-radius: var(--br-87xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 807px;
+  height: 864px;
+}
+.manager-2-child1 {
+  position: absolute;
+  top: 607px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 263px;
+  height: 73px;
+}
+.rooms1 {
+  position: absolute;
+  top: 590px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-2-child2 {
+  position: absolute;
+  top: 603px;
+  left: 1031px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 263px;
+  height: 73px;
+}
+.guestr1 {
+  position: absolute;
+  top: 589px;
+  left: 968px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-2-child3 {
+  position: absolute;
+  top: 284px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.name1 {
+  position: absolute;
+  top: 267px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-2-child4 {
+  position: absolute;
+  top: 979px;
+  left: 747px;
+  border-radius: var(--br-32xl);
+  background-color: var(--color-lightsteelblue);
+  width: 435px;
+  height: 75px;
+}
+.edit {
+  position: absolute;
+  top: 956px;
+  left: 720px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 489px;
+  height: 124px;
+}
+.hello-manager1 {
+  font-weight: 500;
+}
+.username2 {
+  font-weight: 800;
+}
+.hello-manager-username-container3 {
+  width: 100%;
+}
+.hello-manager-username-container2 {
+  top: 4px;
+  left: 1306px;
+  width: 614px;
+  height: 46px;
+}
+.hello-manager-username-container2,
+.my-hotels-profile,
+.my-profile2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.my-hotels-profile {
+  top: 205px;
+  left: 657px;
+  font-size: var(--font-size-29xl);
+  text-align: left;
+  width: 637px;
+  height: 61px;
+}
+.my-profile2 {
+  top: 54px;
+  left: 1306px;
+  font-weight: 800;
+  justify-content: center;
+  width: 614px;
+  height: 46px;
+}
+.manager-2-child5 {
+  position: absolute;
+  top: 392px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.location2 {
+  position: absolute;
+  top: 375px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-2-child6 {
+  position: absolute;
+  top: 500px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.star1 {
+  position: absolute;
+  top: 483px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-2-child7 {
+  position: absolute;
+  top: 715px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.email1 {
+  position: absolute;
+  top: 698px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-2-child8 {
+  position: absolute;
+  top: 823px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 145px;
+}
+.description2 {
+  position: absolute;
+  top: 804px;
+  left: 567px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-2 {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-jetbrains-mono);
+}

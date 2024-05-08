@@ -1,0 +1,273 @@
+.manager-3-child,
+.manager-3-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+}
+.manager-3-item {
+  background-color: var(--color-gainsboro);
+  height: 100px;
+}
+.all-customer,
+.my-hotel {
+  position: absolute;
+  top: 50px;
+  left: 653px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 614px;
+  height: 46px;
+}
+.my-hotel {
+  left: -46px;
+}
+.manager-3-inner {
+  position: absolute;
+  top: 148px;
+  left: 535px;
+  border-radius: var(--br-87xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 807px;
+  height: 864px;
+}
+.manager-3-child1 {
+  position: absolute;
+  top: 587px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 263px;
+  height: 73px;
+}
+.rooms {
+  position: absolute;
+  top: 570px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-3-child2 {
+  position: absolute;
+  top: 583px;
+  left: 1031px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 263px;
+  height: 73px;
+}
+.guestr {
+  position: absolute;
+  top: 569px;
+  left: 968px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-3-child3 {
+  position: absolute;
+  top: 264px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.name {
+  position: absolute;
+  top: 247px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-3-child4,
+.manager-3-child5 {
+  position: absolute;
+  top: 962px;
+  border-radius: var(--br-32xl);
+  width: 326px;
+  height: 95px;
+}
+.manager-3-child4 {
+  left: 968px;
+  background-color: #ff8181;
+}
+.manager-3-child5 {
+  left: 603px;
+  background-color: var(--color-lightsteelblue);
+}
+.done {
+  position: absolute;
+  top: 948px;
+  left: 521px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 489px;
+  height: 124px;
+}
+.no-rooms {
+  margin: 0;
+}
+.no-rooms-available-container1 {
+  width: 100%;
+}
+.no-rooms-available-container {
+  position: absolute;
+  top: 948px;
+  left: 894px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 489px;
+  height: 124px;
+}
+.hello-manager {
+  font-weight: 500;
+}
+.username1 {
+  font-weight: 800;
+}
+.hello-manager-username-container {
+  top: 4px;
+  left: 1306px;
+  width: 614px;
+  height: 46px;
+}
+.edit-my-hotels,
+.hello-manager-username-container,
+.my-profile1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.edit-my-hotels {
+  top: 187px;
+  left: 603px;
+  font-size: var(--font-size-29xl);
+  text-align: left;
+  width: 703px;
+  height: 61px;
+}
+.my-profile1 {
+  top: 54px;
+  left: 1306px;
+  font-weight: 800;
+  justify-content: center;
+  width: 614px;
+  height: 46px;
+}
+.manager-3-child6 {
+  position: absolute;
+  top: 372px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.location1 {
+  position: absolute;
+  top: 355px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-3-child7 {
+  position: absolute;
+  top: 480px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.star {
+  position: absolute;
+  top: 463px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-3-child8 {
+  position: absolute;
+  top: 695px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.email {
+  position: absolute;
+  top: 678px;
+  left: 543px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.manager-3-child9 {
+  position: absolute;
+  top: 803px;
+  left: 592px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 145px;
+}
+.description1 {
+  position: absolute;
+  top: 784px;
+  left: 567px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.search-alt-light-icon {
+  position: absolute;
+  top: 267px;
+  left: 174px;
+  width: 33px;
+  height: 34px;
+}
+.manager-3 {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-jetbrains-mono);
+}

@@ -1,0 +1,125 @@
+.sign-in-child,
+.sign-in-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 1920px;
+  height: 1080px;
+}
+.sign-in-item {
+  top: 224px;
+  left: 287px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-90xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1347px;
+  height: 631px;
+}
+.dont-have-an,
+.sign-in1,
+.to-continue-to1 {
+  position: absolute;
+  left: 371px;
+  display: inline-block;
+  height: 82px;
+}
+.sign-in1 {
+  top: 284px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  width: 383px;
+}
+.dont-have-an,
+.to-continue-to1 {
+  top: 349px;
+  font-weight: 300;
+  width: 513px;
+}
+.dont-have-an {
+  top: 656px;
+}
+.sign-in-inner {
+  position: absolute;
+  top: 423px;
+  left: 960px;
+  border-radius: var(--br-18xl);
+  background-color: var(--color-gainsboro);
+  width: 583px;
+  height: 58px;
+}
+.username-or-email {
+  position: absolute;
+  top: 440px;
+  left: 992px;
+  font-size: var(--font-size-xl);
+  font-weight: 100;
+  display: inline-block;
+  width: 520px;
+  height: 41px;
+}
+.sign-in-child1 {
+  position: absolute;
+  top: 499px;
+  left: 960px;
+  border-radius: var(--br-18xl);
+  background-color: var(--color-gainsboro);
+  width: 583px;
+  height: 58px;
+}
+.forgot-password,
+.password1 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 100;
+  display: inline-block;
+  width: 520px;
+}
+.password1 {
+  top: 516px;
+  left: 992px;
+  height: 41px;
+}
+.forgot-password {
+  top: 575px;
+  left: 1320px;
+  color: var(--color-blue);
+}
+.sign-in-child2 {
+  position: absolute;
+  top: 687px;
+  left: 1383px;
+  border-radius: var(--br-32xl);
+  background-color: var(--color-lightsteelblue);
+  width: 147px;
+  height: 85px;
+}
+.create-account,
+.next1 {
+  position: absolute;
+  top: 687px;
+  left: 1370px;
+  font-weight: 800;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 173px;
+  height: 85px;
+}
+.create-account {
+  left: 406px;
+  color: var(--color-blue);
+  width: 312px;
+}
+.sign-in {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-jetbrains-mono);
+}

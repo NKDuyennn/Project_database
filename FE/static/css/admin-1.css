@@ -1,0 +1,463 @@
+.admin-1-child,
+.admin-1-inner,
+.admin-1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+}
+.admin-1-inner,
+.admin-1-item {
+  background-color: var(--color-gainsboro);
+  height: 100px;
+}
+.admin-1-inner {
+  top: 162px;
+  left: 61px;
+  border-radius: var(--br-87xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 807px;
+  height: 864px;
+}
+.all-user-account {
+  position: absolute;
+  top: 195px;
+  left: 211px;
+  font-size: var(--font-size-29xl);
+  display: flex;
+  text-align: left;
+  align-items: center;
+  width: 550px;
+  height: 61px;
+}
+.admin-1-child1 {
+  position: absolute;
+  top: 162px;
+  left: 1013px;
+  border-radius: var(--br-87xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 807px;
+  height: 864px;
+}
+.admin-1-child2,
+.admin-1-child3 {
+  position: absolute;
+  top: 330px;
+  left: 94px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 741px;
+  height: 101px;
+}
+.admin-1-child3 {
+  top: 372px;
+  left: 583px;
+  background-color: var(--color-lightcoral-100);
+  width: 228px;
+  height: 51px;
+}
+.role,
+.username12 {
+  position: absolute;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+.username12 {
+  top: 321px;
+  left: 80px;
+  justify-content: center;
+  width: 253px;
+  height: 96px;
+}
+.role {
+  top: 381px;
+  left: 595px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  width: 166px;
+  height: 30px;
+}
+.admin-1-child4,
+.admin-1-child5 {
+  position: absolute;
+  top: 886px;
+  left: 94px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 741px;
+  height: 101px;
+}
+.admin-1-child5 {
+  top: 928px;
+  left: 583px;
+  background-color: var(--color-lightcoral-100);
+  width: 228px;
+  height: 51px;
+}
+.role1,
+.username13 {
+  position: absolute;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+.username13 {
+  top: 877px;
+  left: 80px;
+  justify-content: center;
+  width: 253px;
+  height: 96px;
+}
+.role1 {
+  top: 937px;
+  left: 595px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  width: 166px;
+  height: 30px;
+}
+.admin-1-child6,
+.admin-1-child7 {
+  position: absolute;
+  top: 604px;
+  left: 94px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 741px;
+  height: 101px;
+}
+.admin-1-child7 {
+  top: 646px;
+  left: 583px;
+  background-color: var(--color-lightcoral-100);
+  width: 228px;
+  height: 51px;
+}
+.role2,
+.username14 {
+  position: absolute;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+.username14 {
+  top: 595px;
+  left: 80px;
+  justify-content: center;
+  width: 253px;
+  height: 96px;
+}
+.role2 {
+  top: 655px;
+  left: 595px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  width: 166px;
+  height: 30px;
+}
+.admin-1-child8,
+.admin-1-child9 {
+  position: absolute;
+  top: 468px;
+  left: 94px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 741px;
+  height: 101px;
+}
+.admin-1-child9 {
+  top: 510px;
+  left: 583px;
+  background-color: var(--color-lightcoral-100);
+  width: 228px;
+  height: 51px;
+}
+.role3,
+.username15 {
+  position: absolute;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+.username15 {
+  top: 459px;
+  left: 80px;
+  justify-content: center;
+  width: 253px;
+  height: 96px;
+}
+.role3 {
+  top: 519px;
+  left: 595px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  width: 166px;
+  height: 30px;
+}
+.admin-1-child10,
+.admin-1-child11 {
+  position: absolute;
+  top: 750px;
+  left: 94px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 741px;
+  height: 101px;
+}
+.admin-1-child11 {
+  top: 792px;
+  left: 583px;
+  background-color: var(--color-lightcoral-100);
+  width: 228px;
+  height: 51px;
+}
+.role4,
+.username16 {
+  position: absolute;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+.username16 {
+  top: 741px;
+  left: 80px;
+  justify-content: center;
+  width: 253px;
+  height: 96px;
+}
+.role4 {
+  top: 801px;
+  left: 595px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  width: 166px;
+  height: 30px;
+}
+.admin-1-child12 {
+  position: absolute;
+  top: 278px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.username17 {
+  position: absolute;
+  top: 261px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.admin-1-child13 {
+  position: absolute;
+  top: 973px;
+  left: 1225px;
+  border-radius: var(--br-32xl);
+  background-color: var(--color-lightsteelblue);
+  width: 435px;
+  height: 75px;
+}
+.edit1 {
+  position: absolute;
+  top: 950px;
+  left: 1198px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 489px;
+  height: 124px;
+}
+.hello-admin2 {
+  font-weight: 500;
+}
+.username18 {
+  font-weight: 800;
+}
+.hello-admin-username-container5 {
+  width: 100%;
+}
+.hello-admin-username-container4,
+.username-profile1 {
+  position: absolute;
+  top: 4px;
+  left: 1306px;
+  display: flex;
+  align-items: center;
+  width: 614px;
+  height: 46px;
+}
+.username-profile1 {
+  top: 195px;
+  left: 1183px;
+  font-size: var(--font-size-29xl);
+  text-align: left;
+  width: 637px;
+  height: 61px;
+}
+.all-account2,
+.all-hotel2,
+.my-profile6 {
+  position: absolute;
+  top: 54px;
+  left: 1306px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 614px;
+  height: 46px;
+}
+.all-account2,
+.all-hotel2 {
+  top: 50px;
+  left: 653px;
+}
+.all-hotel2 {
+  left: -46px;
+}
+.admin-1-child14 {
+  position: absolute;
+  top: 386px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.full-name1 {
+  position: absolute;
+  top: 369px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.admin-1-child15 {
+  position: absolute;
+  top: 494px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.email5 {
+  position: absolute;
+  top: 477px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.admin-1-child16 {
+  position: absolute;
+  top: 601px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.phone2 {
+  position: absolute;
+  top: 584px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.admin-1-child17 {
+  position: absolute;
+  top: 709px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.location5 {
+  position: absolute;
+  top: 692px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.admin-1-child18 {
+  position: absolute;
+  top: 817px;
+  left: 1070px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 702px;
+  height: 73px;
+}
+.rank {
+  position: absolute;
+  top: 800px;
+  left: 1021px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 326px;
+  height: 108px;
+}
+.admin-1-child19 {
+  position: absolute;
+  top: 261px;
+  left: 155px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-gainsboro);
+  width: 579px;
+  height: 45px;
+}
+.search-user1 {
+  position: absolute;
+  top: 263px;
+  left: 212px;
+  font-weight: 100;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 562px;
+  height: 43px;
+}
+.search-alt-light-icon4 {
+  position: absolute;
+  top: 267px;
+  left: 174px;
+  width: 33px;
+  height: 34px;
+}
+.admin-1 {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-jetbrains-mono);
+}
