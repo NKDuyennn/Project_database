@@ -22,7 +22,7 @@ CREATE TABLE booking (
     checkout_date DATE NOT NULL,
     actual_checkin_time DATETIME,
     actual_checkout_time DATETIME,
-    deposit INT NOT NULL,
+    deposit DECIMAL(10,2) NOT NULL,
     payment_status TINYINT NOT NULL, -- 0: Đã cọc, 1: Đã thanh toán
     FOREIGN KEY (customer_id) REFERENCES customer(id)
 );
@@ -45,7 +45,7 @@ CREATE TABLE room_type (
 CREATE TABLE hotel_room_type (
     hotel_id INT,
     room_type_id INT,
-    base_price INT NOT NULL,
+    base_price DECIMAL(10,2) NOT NULL,
 	hotel_room_type_status TINYINT DEFAULT 1, -- 1: còn phòng loại này, 0: hết phòng loại này
     PRIMARY KEY (hotel_id, room_type_id),
     FOREIGN KEY (hotel_id) REFERENCES hotel(id),
@@ -66,8 +66,8 @@ CREATE TABLE booking_room (
     room_id INT,
     num_adults INT NOT NULL,
     num_children INT NOT NULL,
-    room_surcharge INT DEFAULT 0,
-	booking_price INT NOT NULL,
+    room_surcharge DECIMAL(10,2) DEFAULT 0,
+	booking_price DECIMAL(10,2) NOT NULL,
     PRIMARY KEY (booking_id, room_id),
     FOREIGN KEY (booking_id) REFERENCES booking(id),
     FOREIGN KEY (room_id) REFERENCES room(id)
@@ -76,14 +76,14 @@ CREATE TABLE booking_room (
 CREATE TABLE service (
     id INT PRIMARY KEY IDENTITY(1,1),
     service_name NVARCHAR(50) NOT NULL,
-    price INT NOT NULL
+    price DECIMAL(10,2) NOT NULL
 );
 
 CREATE TABLE booking_service (
     booking_id INT,
     service_id INT,
     quantity SMALLINT NOT NULL,
-	booking_price INT NOT NULL,
+	booking_price DECIMAL(10,2) NOT NULL,
     PRIMARY KEY (booking_id, service_id),
     FOREIGN KEY (booking_id) REFERENCES booking(id),
     FOREIGN KEY (service_id) REFERENCES service(id)
@@ -97,9 +97,9 @@ CREATE TABLE payment_method (
 CREATE TABLE invoice (
     booking_id INT PRIMARY KEY,
     payment_method_id INT NOT NULL,
-    checkin_checkout_surcharge INT DEFAULT 0,
-    room_charge INT DEFAULT 0,
-    service_fee INT DEFAULT 0,
+    checkin_checkout_surcharge DECIMAL(10,2) DEFAULT 0,
+    room_charge DECIMAL(10,2) DEFAULT 0,
+    service_fee DECIMAL(10,2) DEFAULT 0,
     FOREIGN KEY (booking_id) REFERENCES booking(id),
     FOREIGN KEY (payment_method_id) REFERENCES payment_method(id)
 );
